@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor mans progress and rest, or, the way of God with man passing through the wildernesse to Canaan In answer to a grand question demanded of the author whilst a prisioner in Jameses. Viz. What the manner of Gods dealing was with him in the severall dispensations that he had gone through; and also the ground of his practise, directed to one of the councel. And now published for the prevention of false suggestions against the said prisioner during his captivity. Wherein is clearly demonstrated, first, the false foundations that many thousands in this generation [     ] upon. Secondly, what the true foundation is with the ill consequences and absurditees of the contrary. Thirdly, the infallability of the this true foundation. Fourthly, the difference between living to Christ and living by him. ... Tenthly, some reasons to induce submission to imposition of hands. All made plain by scripture reason and experience. By William Pryer, a poor despised servant of Jesus, ...</title>
+            <author>Pryor, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56233</idno>
+            <idno type="STC">Wing P4132A</idno>
+            <idno type="STC">ESTC R218357</idno>
+            <idno type="EEBO-CITATION">99829960</idno>
+            <idno type="PROQUEST">99829960</idno>
+            <idno type="VID">34407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor mans progress and rest, or, the way of God with man passing through the wildernesse to Canaan In answer to a grand question demanded of the author whilst a prisioner in Jameses. Viz. What the manner of Gods dealing was with him in the severall dispensations that he had gone through; and also the ground of his practise, directed to one of the councel. And now published for the prevention of false suggestions against the said prisioner during his captivity. Wherein is clearly demonstrated, first, the false foundations that many thousands in this generation [     ] upon. Secondly, what the true foundation is with the ill consequences and absurditees of the contrary. Thirdly, the infallability of the this true foundation. Fourthly, the difference between living to Christ and living by him. ... Tenthly, some reasons to induce submission to imposition of hands. All made plain by scripture reason and experience. By William Pryer, a poor despised servant of Jesus, ...</title>
+                  <author>Pryor, William.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Title page severly stained affecting legibility.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34407:1"/>
+            <p>The poor mans progreſſe and reſt, Or, the way of God with man paſſing through the wilderneſſe to CANAAN. <hi>In anſwer to a grand queſtion demanded of the Authour whilſt a priſoner in</hi> Jameſes. <hi>Viz.</hi> What the manner of Gods dealing was with him in the ſeverall diſpenſations that he had gone through, and al<g ref="char:EOLhyphen"/>ſo the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his practiſe, directed to one of the Councel. And now publiſhed for the prevention of falſe ſuggeſtions againſt the ſaid priſoner during his captivity.</p>
+            <p>Where it is clearly demonſtrated.</p>
+            <list>
+               <item>Firſt, the falſe foundations that many thouſands in this generation build upon.</item>
+               <item>
+                  <hi>Secondly,</hi> What the true foundation is with the ill conſequences and abſurdities of the contrary.</item>
+               <item>
+                  <hi>Thirdly,</hi> The infallibilitie of this true foundation.</item>
+               <item>
+                  <hi>Fourthly,</hi> The difference between living to Chriſt and living by him.</item>
+               <item>
+                  <hi>Fifthly,</hi> What God gives to man abſolutely, and what upon condi<g ref="char:EOLhyphen"/>tion diſtinguiſhed.</item>
+               <item>
+                  <hi>Sixthly,</hi> The abilities that God gives and who may claim them right.</item>
+               <item>
+                  <hi>Seventhly,</hi> The extent of Chriſts enlightening man, and alſo how the ſoul is put in a capacity to pray.</item>
+               <item>
+                  <hi>Eighthly,</hi> How the ſoul layes ſteadfaſt hold on the promiſes.</item>
+               <item>
+                  <hi>Ninthly,</hi> Some reaſons in brief for oppoſing the Clergy in what is erronious.</item>
+               <item>
+                  <hi>Tenthly,</hi> Some reaſons to induce ſubmiſsion to impoſition of hands,</item>
+            </list>
+            <p>All made plain by Scripture reaſon and experience.</p>
+            <p>
+               <hi>By WILLIAM PRYER,</hi> a poor deſpiſed ſervant of Jeſus, late priſoner at <hi>Jameſes.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſai. 8.20.</hi>
+               </bibl>
+               <p>To the Law and to the Teſtimony, If they ſpake not ac<g ref="char:EOLhyphen"/>cording to the word, it is becauſe there is no light in them.</p>
+            </q>
+            <p>
+               <hi>Printed for the Authour. 1655.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34407:1"/>
+            <head>To the Reader.</head>
+            <p>The reaſon why I preſent this following Epiſtle to your view, is partly from a ſenſibility of my undergoing the cen<g ref="char:EOLhyphen"/>ſures of ſome in reference to my late captivity, and partly from the conſideration of the ignorance of many thouſands of the true foundation, and the better enmity of others, by reaſon of which mens hearts are ſtuft with diviſions with<g ref="char:EOLhyphen"/>out profits in things of greatest concernment, and ſuppo<g ref="char:EOLhyphen"/>ſing this ſmall Epiſtle might be advantagious to the ſettle<g ref="char:EOLhyphen"/>ing the thoughts of ſome that yet remain unſtable, and the particulars in it, may as well be profitable to thee as to me, being witneſſed (in me) by the eternall light, and confir<g ref="char:EOLhyphen"/>med both by Scripture and reaſon, I judged it my duty not to keep it ſecret, eſpecially being ſo eminently called to the work it ſelf: Now that which I only crave of thee, is to read it with deliberation and without prejudice with the noble Bereans ſearch the Scripture whether thoſe things be ſo, and if I ſpeak not according to that word, if it be a con<g ref="char:EOLhyphen"/>trary doctrine, receive it not, but if agreable, then deſpiſe it not, becauſe of the unworthineſſe of the inſtrument, and for what good thou gainest give God the glory, which is all preſent from the unworthieſt of the Lords ſervants, and thine for the truths ſake,</p>
+            <closer>
+               <signed>William Pryer.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:34407:2"/>
+            <opener>
+               <salute>Honoured Sir.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Earing that ſomething had been ſuggeſted, to your honour as to my judgement and pra<g ref="char:EOLhyphen"/>ctiſe, from the conſideration of the appea<g ref="char:EOLhyphen"/>rances of old light in you, I was engaged to give in this epitomie, humbly craving your favourable conſtruction, and judgement, as you find it conſonant with truth, I dare not ſay my former trading in thoſe ſeverall formes, that I manifeſted to your honour I had been in, was not the products of divine light, for Gods way of manifeſtation is by degrees, and he brings his people through the wilderneſſe of tryalls and tempta<g ref="char:EOLhyphen"/>tions to <hi>Canaan,</hi> yea many times through by waies, that ſo their experience may cauſe them to break forth into admi<g ref="char:EOLhyphen"/>ration, at his wonder bringing them through the belly of hell <hi>&amp;c.</hi> I ſhall therefore God willing manifeſt to your ho<g ref="char:EOLhyphen"/>nour, the manner of Gods dealing with me, more particu<g ref="char:EOLhyphen"/>larly in every form.</p>
+            <p>My manner of education in my youth I believe was not unknown to you, which was after the ſtricteſt manner of the then times, with thoſe commonly called puritans, whoſe word was then to me, as the prophet ſpeakes, as a very lovely ſong, which begat in me a deſire to teach, and to know the way that the Lord hath excorpted; which I was ignorant of, and in my enquiring, I had then preſented that the holy ſpirit was the evidence of that way; But when by a particular application, I came to enquire whe<g ref="char:EOLhyphen"/>ther I had this evidence yea or no, and what was the to<g ref="char:EOLhyphen"/>kens of it; it was preſented unto me by ſome that deſire to pray, and to be inſtant therein, and to refrain from bad company and vices, was certain tokens of it; and thus I reſted ſatisfied in ſuch actions done, and as my qualifica<g ref="char:EOLhyphen"/>tions eb'd and flow'd, ſo my comforts eb'd and flow'd, and
+<pb n="2" facs="tcp:34407:3" rendition="simple:additions"/>when clouded by ſins, I immediately queſtioned my conditi<g ref="char:EOLhyphen"/>on, ruminating upon a text that the foundation of God ſtands ſure, by which I was brought to conclude that I was not upon that foundation, but upon my own righteouſ<g ref="char:EOLhyphen"/>neſſe, which was filthy rags, becauſe ſo wanting, which caſt me into a ſad condition, to know the true foundation I deſired; But to pray for it I was averſe, yet frequent in reaſoning according to my weak abilities, and deſirous to reaſon with all that ſeemed any whit religious, amongſt whom I received as I thought ſome glimps of comfort for a time, from that of the Apoſtle, viz. by this we know that we are tranſlated from death to life, becauſe we love the bre<g ref="char:EOLhyphen"/>thren, when I was confident I loved, which bore me untill I began to conſider, who they were in whom the Apoſtle concludes that knowledge of tranſlation, and who the brethren were, and then could eaſily conclude that I had not in my condition one dram of intereſt in that text, not knowing by an infallible teſtimony the brethren, nor my ſelf qualified as the parties ſpeaking, and ſo by ſome inſtru<g ref="char:EOLhyphen"/>ments, was carried to a text in <hi>John, he that believeth ſhall be ſaved,</hi> If I believed it was a certain teſtimony, this I laid hold of untill my God was pleaſed to caſt me upon the ſe<g ref="char:EOLhyphen"/>rious conſideration of that wonderfull place of <hi>Paul,</hi> 1 <hi>Cor.</hi> 5.11. For other foundations can no man lay, ſave that which is laid, which is Jeſus Chriſt, and if any man build upon that foundation, <hi>&amp;c.</hi> from whence through goodneſſe I came ſeriouſly to reaſon thus, If I muſt build upon Chriſt only, then my building upon my own believe<g ref="char:EOLhyphen"/>ing, was matter for the fire, for the day of tryall would de<g ref="char:EOLhyphen"/>clare it, which put me upon a ſerious conſideration, what was the true way of building upon Chriſt, to petition the Fa<g ref="char:EOLhyphen"/>ther for the diſcovery of it, I truſt not, though I earneſtly thir<g ref="char:EOLhyphen"/>ſted after it, for I could not with confidence call God Fa<g ref="char:EOLhyphen"/>ther, whilſt contemplating upon this, my God was pleaſed to let me hear, that ſtill voice of his, directing me the way in generall, that the only way of building upon Chriſt, was to build upon his words, which muſt judge us at the laſt day, which ſet my cogitations on work, what ſcrip<g ref="char:EOLhyphen"/>ture told me I was of that number for whom Chriſt died, it was preſented to me that he died for ſinners, and I was
+<pb n="3" facs="tcp:34407:3"/>one, and in confirmation. 1 <hi>Tim.</hi> 1.15. was alledged, <hi>that Chriſt Came into the world to ſave ſinners,</hi> but then reaſoning with ſome that he came to ſave ſome ſinners not all, conſidering which I was at as great a loſſe as before, not knowing by an infallible teſtimony that I was of that number for whom Chriſt died, which led me to a univer<g ref="char:EOLhyphen"/>ſall propoſition for comfort, which I was altogether averſe to, it being ſo contrary to that I had been taught, and eſpe<g ref="char:EOLhyphen"/>cially conſidering two texts of ſcripture, the one the 2 <hi>Tim,</hi> 3.15, 16, 17, that the holy ſcripture is able to make wiſe to ſalvation through believing, and is ſo profitable, that the man of God may be perfect throughly finiſhed, <hi>&amp;c.</hi> the other the 1 <hi>Theſ.</hi> 4.5. That the goſpel comes with much aſſurance, which neceſſarily muſt be from the word of God, and not from the wiſdome of man, which induc'd me through grace to lay hold on the generall doctrine, eſpecially conſidering the ill conſequences of the particular doctrine then preſented unto me<g ref="char:punc">▪</g> As</p>
+            <p>Firſt, If Chriſt hath not died for all then thus, no goſpel for ſome men, contrary to <hi>Luke</hi> 2.10. <hi>Iſai.</hi> 49.6. <hi>Jud.</hi> 3.</p>
+            <p>Secondly, then infidelity is not the condemning ſin contrary to <hi>Mark.</hi> 16.16. <hi>Iohn</hi> 3.18, 19.</p>
+            <p>Thirdly, then the ſervants of the Lord are commanded to preach lies to ſome men, <hi>Mark</hi> 16.15. 1 <hi>Tim.</hi> 2.7. in being commanded to declare Chriſts death for all, when it were but for ſome. ſee 1 <hi>Tim.</hi> 4.10, 11.</p>
+            <p>Fourthly, Then the Apoſtles did not ſpeak truth, when they ſaid, God would have all men to be ſaved. 1. <hi>Tim.</hi> 2.4. and for that end ordered remiſſion of ſins to be preacht, <hi>Luk,</hi> 24.47. <hi>Act.</hi> 10.36. <hi>Act,</hi> 13.38. That Chriſt took away the ſins of the world, <hi>Ioh.</hi> 1.29. that he taſted death for every man, <hi>Heb.</hi> 2.9. that he is the ſaviour of all men, 1 <hi>Tim.</hi> 4.10. that he gave himſelf a ranſome for all. 1 <hi>Tim.</hi> 2.6. that he bought falſe prophets and falſe teachers, that bring in damnable hereſies, and upon them<g ref="char:EOLhyphen"/>ſelves deſtruction, 2 <hi>Pet.</hi> 2.1. that he ſanctified thoſe that trample under foot the ſon of God, and count the bloud of the covenant an unholy thing, all which ſcriptures muſt be raiſed out of the book of God, and counted as fa<g ref="char:EOLhyphen"/>bles if Chriſt hath not died for all men.</p>
+            <p>
+               <pb n="4" facs="tcp:34407:4"/>
+Fifthly, If he died not for all men, then his rendering vengeance in flaming fire at the great and dreadfull day, ſhall not be, for not believing the goſpel, but becauſe there was none for them to believe, contrary to 2 <hi>Theſ.</hi> 1.8.</p>
+            <p>Sixthly, If he died not for all men then it's no ſin, but a virtue, for ſome men not to believe it, becauſe if they ſhould believe that he died for them, when he did not, they would believe a lye.</p>
+            <p>Seventhly, To deny Chriſts death for all men, is to call in queſtion Chriſts own words, <hi>Rev.</hi> 22.17. in his gene<g ref="char:EOLhyphen"/>ral inviting poor loſt man.</p>
+            <p>The ſerious conſideration of thoſe abſurdities, with ma<g ref="char:EOLhyphen"/>ny others preſented to me, clearly following a limited go<g ref="char:EOLhyphen"/>ſpel, and knowing aſſuredly, that no abſurdities followed upon the truth, I through the goodneſſe of my dear Lord, cloaſed with that deſpiſed doctrine of his, deſpiſed indeed of men, but choſen of himſelf, that the riches of his love, and goodneſſe might be manifeſted without reſpect of per<g ref="char:EOLhyphen"/>ſons, in which my heart was preſently eſtabliſhed, having his word to teſtifie to my conſcience, then my building was upon him the rock, againſt which I am ſure no ſtorms nor floods can prevail, if I make uſe of thoſe ſweet givings forth of himſelf, in holding faſt my confidence firm to the end, for I have not the reaſonings of men, nor no inherent qualifications, but his own word, in and from which I have a cloud of witneſſes, of his dying for me, it that he dyed for all men, and his end therein declared. 2 <hi>Cor.</hi> 5.15. that he died for all, that thoſe which live ſhould not henceforth live unto themſelves, but unto him that died for them, and roſe again. And this is the condemnation under the goſel, not becauſe Chriſt hath not died for man, nor be<g ref="char:EOLhyphen"/>cauſe man doth not live by Chriſt, but becauſe man doth not live to Chriſt, there is this difference betwixt living by Chriſt, and living to him; all men live by Chriſt, for by him all things conſiſt, <hi>Col.</hi> 1.17. yet none live to him, but ſuch as are alive in their obedience, and ſuch only he accounts his friends. <hi>Joh.</hi> 15.14. and promiſeth his pre<g ref="char:EOLhyphen"/>ſence. <hi>Ioh.</hi> 14.21. and his and the Fathers aboad. <hi>Joh.</hi> 14.23. to ſuch he promiſeth further diſcoveries of himſelf, and makes known whatſoever the Father hath made
+<pb n="5" facs="tcp:34407:4"/>known unto him. <hi>Ioh.</hi> 15.15. the making forth of which love I have in ſome meaſure enjoyed, and if I had been more obedient, I believe I ſhould have enjoyed more, yet not for my obedience, but becauſe God hath promiſed who hath ſaid, <hi>I will do this for the houſe of</hi> Iſrael, yet not for your ſakes, yet will I be ſought unto by you, and hath alſo promiſed, that he that will do my will ſhall know my doctrine; yet not as a recompence for his doing, God hath no more ſaid he will ſave any people for doing, then he hath ſaid he will ſave them without doing, for he him<g ref="char:EOLhyphen"/>ſelf will have all the glory of mans ſalvation, and of mans doing, becauſe God himſelf finds all the matter, he is the authour of our ſalvation, and the authour of our abilities by which we do, it is he that gives us in the behalf of Chriſt, not only to enable us to believe, but alſo to ſuffer for his ſake, which promiſe of abilities no man can claim that ſuffers as an evill doer, though many times he is neerer then his promiſe, which through the riches of his grace, I have had experience of, by which grace I have obtained an aſſurance of mercy, who am leaſt in all my Fathers houſe, not worthy of the crumbs that fall from his table, much leſſe of thoſe ſweet ſmiles from him<g ref="char:EOLhyphen"/>ſelf, ſpeaking peace to my poor ſoul, ſweetning all condi<g ref="char:EOLhyphen"/>tions unto me, with freenes of ſatisfaction in all ſufferings, though I have been a backſlider, and thereby have occaſi<g ref="char:EOLhyphen"/>oned the way of truth to be evill ſpoken of, and brought the people of God under ſhame and reproach, yet have ob<g ref="char:EOLhyphen"/>tained mercy, though I was with <hi>Aſap,</hi> envious at the pro<g ref="char:EOLhyphen"/>ſperity of the wicked, ſeeing no bands in their death, but had more then heart could wiſh, though the righteous wanted, and were troubled every morning, I concluded I had changed my heart in vain, thus was my temptations, yet from thoſe the Lord hath delivered me, by revealing his Son in me, and by him diſcovering to me, as to the pro<g ref="char:EOLhyphen"/>phet, <hi>Pſal.</hi> 73.17, 18. both the end of the righteous and the wicked, and now through the eternall light guiding me in that which ſome call hereſie, ſo worſhip I the God of my Fathers, believing all things recorded in the law, &amp; the prophets, in which are the reaſons of my believing.</p>
+            <p>Firſt, That Chriſt took upon him the iniquity of all that
+<pb n="6" facs="tcp:34407:5"/>went aſtray, <hi>Iſai.</hi> 53.6. <hi>Rom.</hi> 3.23, 24. which was the firſt doctrine that <hi>Peter</hi> preacht, <hi>Act.</hi> 10.34, 35, 36. and that <hi>Paul</hi> and <hi>Barnabas</hi> preacht, <hi>Act.</hi> 13.47. 1 <hi>Cor.</hi> 15.3. The Apoſtle when he came to the <hi>Corinthians,</hi> which were Idolaters, he did not tell them Chriſt died for an e<g ref="char:EOLhyphen"/>lect number, and if they were of that number, Chriſt died for them, but he tells them firſt of all that Chriſt died for them.</p>
+            <p>Secondly, I find this Chriſt appointed by the Father, for a light to the world to the Gentiles, to them that ſit in dark<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Thirdly, I find that he doth enlighten every man that comes into the world. <hi>Ioh.</hi> 1.9. he that denies that Chriſt enlightens every man, doth in effect deny Chriſt to be the true light, as compared with verſe the 8. beſides every mans experience in this particular, there no man that ſins but immediately after, if not at preſent, he hath a kind of ſecret tincture in his breſt, telling him what he ought not to do or have done which diſcovers that the light hath been there.</p>
+            <p>The next particular conſiderable is what this light hath taught me, Firſt, What God is in himſelf, Secondly, what he is in the manifeſtations of himſelf.</p>
+            <p>Firſt, That he is infinite in himſelf which is conſidera<g ref="char:EOLhyphen"/>ble, in the unſearcheableneſſe of his wiſdom and way, The manifeſtations of himſelf are clearly ſeen, by the things that are made, that they could not be without a beginner, that this beginner is wiſe, in his orderly placing things, and powerfull, which is manifeſted by thunder, and lighte<g ref="char:EOLhyphen"/>ning, and dreadfull appearances of that nature, beſides al<g ref="char:EOLhyphen"/>tering and changing, throwing down and ſetting up, be<g ref="char:EOLhyphen"/>yond the reach of reaſon, even to admiration, and that he is loving in cauſing the rain to fall, and the ſun to ſhine, and fruitfull ſeaſons, filling mans heart with joy and gladneſſe, the conſideration of this infiniteneſſe diſcovered in his works, demonſtrates to poor creatures, their own nothing<g ref="char:EOLhyphen"/>neſſe, which begets in them a holy reverence of the maje<g ref="char:EOLhyphen"/>ſty of God, from the ſight of his fulneſſe ſeriouſly conſidered, carries the ſoul to a conſideration of its own wants, and of what God hath promiſed, comparing which promiſes,
+<pb n="7" facs="tcp:34407:5"/>(viz.) what he hath manifeſted begetts a confidence that this infinite God is faithfull, which puts a poor ſoul in<g ref="char:EOLhyphen"/>to a capacity to pray, without which no man can do with<g ref="char:EOLhyphen"/>out ſin, and to lay ſtedfaſt hold on the promiſes of love, of life, of liberty, of priviledges, of mutuall relation, of di<g ref="char:EOLhyphen"/>vine communion, all which are manifeſted in the promi<g ref="char:EOLhyphen"/>ſes of the Father of mercies, and God of all Conſola<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Of love, in giving his Son, and by him manifeſting an open door into the holyeſt.</p>
+            <p>Of life, to thoſe that go in by that door opened.</p>
+            <p>Of liberty, of walking into that new and living way, in<g ref="char:EOLhyphen"/>to the holieſt.</p>
+            <p>Of priviledges, of knowing their being freed from the hand writing of ordinances that were againſt them who walk in that way opened, and of having God with them, Chriſt with them, abiding with them. <hi>Joh.</hi> 14.23. Sim<g ref="char:EOLhyphen"/>pathizing with them in ſufferings, and comforting them by the Angel of his preſence, revealing the mind of the Fa<g ref="char:EOLhyphen"/>ther to them, opening living fountains of water, with a ma<g ref="char:EOLhyphen"/>nifeſtation of liberty to draw with joy, out of the wells of ſalvation, which makes the faithfull of the Lord joyfull a<g ref="char:EOLhyphen"/>bove their fellowes, wiſer then the Rabies of the world, though fools for Chriſts ſake, yet inſtruments of ſalvation to them that believe, ſee the freenes of thoſe living fountains bears up their heads above all troubles and fears, cauſing them to mount up like eagles, to run and not be weary, to labour and not faint.</p>
+            <p>Of mutuall relation, having God for their Father by promiſe, and Chriſt our elder brother.</p>
+            <p>And of divine communion, in enjoying fellowſhip with the Father, and the Son Jeſus Chriſt, 1 <hi>Ioh.</hi> 1.3. which all men may enjoy, that in love receive what is declared of and by thoſe divine beings, the conſideration of theſe promiſes in which are contain'd thoſe divine manifeſtati<g ref="char:EOLhyphen"/>ons, leads poor ſouls to a clear ſight of the conditions, up<g ref="char:EOLhyphen"/>on which theſe graces promiſed are intended.</p>
+            <p>His love, in giving his Son, and manifeſting through him a door of life opened is abſolute, his manifeſtation of liberty, of priviledge, of mutuall relation, of divine com<g ref="char:EOLhyphen"/>munion;
+<pb n="8" facs="tcp:34407:6"/>all upon conditions of obedience of univerſall obedience, for ſuch only know Chriſt that ſo obey him, 1 <hi>Ioh.</hi> 2.4. And ſuch only love him, that yield a univer<g ref="char:EOLhyphen"/>ſall obedience to him, <hi>Ioh.</hi> 14.21, 23. and ſuch only he accounts his friends. <hi>Joh.</hi> 15.14. this begets a ſerious conſideration what Chriſt hath commanded, which carries us to the counſell of God for direction, and as we deſire to manifeſt love to God, and to the Son Jeſus Chriſt, who hath loved us, if God requires us to ſpeak often one to ano<g ref="char:EOLhyphen"/>ther, we ought not to neglect it, and if God gives us the ſpirit of diſcerning thereupon, as he promiſes between the righteous and the wicked, <hi>Mal.</hi> the 3.18. then in duty we ought to praiſe him, and if God requires us to ſeparate from thoſe that are not his people, and to joyn with thoſe that are his people, in whom God dwells, <hi>Iſa.</hi> 57.11. 2 <hi>Cor.</hi> 6.17. then we ought not to neglect it, and if God manifeſts himſelf a Father thereupon, as he promiſes, ſtill we ought to ſound forth his praiſe, which is our reaſonable ſervice, and if God manifeſts unto us, that baptiſme of believers juſtifies him, and the reſecters of it rejects Gods counſell againſt themſelves, <hi>Luk.</hi> 7.29.30. who can forbid water that they ſhould not be baptized, <hi>Act.</hi> 10.48. and ſo likewiſe for walking in all the ordinances of the Lord, with reference and godly fear, we ought with comfort and confidence make our requeſt known unto God, who to the comfort of poor deſpiſed creatures, is in heaven, and ſees all the actions of men, from whoſe pre<g ref="char:EOLhyphen"/>ſence there is nothing hid, not a hair of the head of any of his people falls to the ground without his providence, their ſufferings and the reaſon of their ſufferings, whether for righteouſneſſe ſake, or as evill doers, and to the com<g ref="char:EOLhyphen"/>fort of the righteous will ere long make all naked, when the Son is manifeſted and acknowledged, ſo he the only potentate the king of kings, and lord of lords, who only hath mortality, dwelling in the light, where no mortall eyes can approach, whom God will ſend to refreſh his people, at the times of the reſtitution of all things, which God hath ſpoken by the mouth of all his prophets, ſince the world began, <hi>Act.</hi> 3.19.20, 21. which through grace fills me with inward comfort, though I beſtript of
+<pb n="9" facs="tcp:34407:6"/>all outward enjoyments, yet I have an aſſurance of an e<g ref="char:EOLhyphen"/>ternall inheritance, which the world can neither give, nor take away, which the Lord the righteous judge will give me at his appearing, when his poor deſpiſed ones ſhall be made full and compleat participators of what the Lord hath promiſed by his ſervants the prophets and Apoſtles, by whoſe writings, the myſtery hid from ages and generati<g ref="char:EOLhyphen"/>ons is manifeſted in ſuch legible characters, whereby when men read, they may underſtand. <hi>Eph.</hi> 3.4. which com<g ref="char:EOLhyphen"/>forts the hearts of the Lords ſervants, filling them with all riches, of aſſurance, of underſtanding, in their acknow<g ref="char:EOLhyphen"/>ledging the myſtery of God, and of the Father, and of Chriſt, to the which acknowledgement. the God of praiſe, and love, bring all thoſe that ſet their faces Sion ward, that in the rich enjoying of aſſurance, may finiſh their courſe with joy, he coming the earneſt of their inheritance, untill the redemption of the purchaſed poſſeſſion, when the righ<g ref="char:EOLhyphen"/>teous ſhall receive the end of their hope, the ſalvation of their ſouls<g ref="char:punc">▪</g> And ſo much in brief, I was ſollicited to ſignifie unto your honour, touching the manner of Gods dealing with my poor ſoul, now humbly craving your ſerious con<g ref="char:EOLhyphen"/>ſideration of the particulars herein, being willing to re<g ref="char:EOLhyphen"/>ceive information, wherein I ſee either in judgement or practiſe, and the God of peace, and love, give you under<g ref="char:EOLhyphen"/>ſtanding in all his wayes which are pleaſanter then all that this world can afford.</p>
+            <p>I ſhall only give you an account in a word or two of my practice in oppoſing the Clergy, which I am ſure you have had various reports of.</p>
+            <p>Firſt, I never ſpake to any of them by way of queſtion, untill they had done, except two: and what I ſaid to thoſe two, was in vindication of preſent ordinances, openly vio<g ref="char:EOLhyphen"/>lated by them.</p>
+            <p>Nor I never laid hands upon any, nor abetted any that did, though I have heard ſo much hath been ſuggeſted, to your honour, but alwaies on the contrary, deſired peace and peaceable reaſoning, yet ſtrongly endeavouring by reaſon to vindicate that which I apprehended to be truth.</p>
+            <p>The reaſons of this my practiſe, may it pleaſe your ho<g ref="char:EOLhyphen"/>nour was theſe.</p>
+            <p>
+               <pb n="10" facs="tcp:34407:7"/>
+Firſt, I am commanded to follow the example of my dear Saviour, and the example of his ſervants, ſo far as they followed him, I find him diſputing amongſt the Do<g ref="char:EOLhyphen"/>ctours, and asking them queſtions, and taking his oppor<g ref="char:EOLhyphen"/>tunities of ſpeaking amongſt multitudes, I find the ſer<g ref="char:EOLhyphen"/>vants, as <hi>Stephen,</hi> and <hi>Apollo,</hi> and <hi>Silas,</hi> and <hi>Peter,</hi> fol<g ref="char:EOLhyphen"/>lowing his example, and it was <hi>Pauls</hi> manner, <hi>Act.</hi> 17.2. to go in the Synogogues on the Sabbath day; and reaſon with them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Scripture, which God is my witneſſe, beſides many hundreds, I have practiſed with much meek<g ref="char:EOLhyphen"/>neſſe though I have received many taunts and reproaches from them, unbecoming men of their profeſſion, beſides ſundry of their endeavours to ſet the tumultuous about my ears, as I am able to manifeſt, yet I rendered them not e<g ref="char:EOLhyphen"/>vill, though I have by their occaſion often undergone ſtroakes, buffetings, and ſtoning, and my garments torn from me, all which I value not, becauſe I know my God hath regiſtred my ſufferings, I gave no manner of unbeſee<g ref="char:EOLhyphen"/>ming retorts at <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndle,</hi> when Mr <hi>Reſbury</hi> came into the publick place, and called to Mr <hi>Morley,</hi> a gentleman of <hi>Northamptonſhire,</hi> whilſt preaching (being then in the pulpit, which was at that time free by act of Parliament,) uttering with a loud voice contumelious threatnings un<g ref="char:EOLhyphen"/>comely to be mentioned by any that profeſſe the name of Chriſt, but a patient ſuffering is comely to, and amongſt the people of God an adorning to the goſpell of their pro<g ref="char:EOLhyphen"/>feſſion, to bear about alwayes in their bodies the dying of the Lord Jeſus, is their treaſure in earthen veſſels, and therefore ſhall commit theſe the ſeries of my underſtand<g ref="char:EOLhyphen"/>ing and practiſe to your ſerious conſideration, being wil<g ref="char:EOLhyphen"/>ling through grace to go through good report and evill, and to ſuffer any thing that God may have the glory, and what of it deſerves the light to let it have it: which is all at preſent from him who is the unworthieſt of truths lovers, yet ſhall take leave to ſubſcribe my ſelf:</p>
+            <closer>
+               <signed>Your Honours ſervant for the truths ſake. <hi>William Pryer.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:34407:7"/>
+            <p>I know I ſhall be the wonder of the Churches abroad, and of all others that have been witneſſes to my oppoſing the doctrine of impoſition of hands, when they hear of my entring into the practiſe of it, it may be ſome will cenſure me as unſtable: be it ſo, I had rather be accounted unſta<g ref="char:EOLhyphen"/>ble, then ſtable in oppoſing truth, and therefore ſhall brief<g ref="char:EOLhyphen"/>ly give to ſerious conſideration the reaſons of my ſubmit<g ref="char:EOLhyphen"/>ting to impoſition of hands, now practiſed in many places upon all baptized beleevers.</p>
+            <p>Firſt, Becauſe ever ſince I oppoſed it, I have found a coldneſſe growing upon me as to the things of God.</p>
+            <p>Secondly, I have found a greater debility in my ſelf to withſtand temptations.</p>
+            <p>Thirdly, becauſe I could find no other way to claim that great promiſe of the gift of the ſpirit, by which is convaid the aſſurance of all the other promiſes, but by following the example of the holy men of God in that which did immedi<g ref="char:EOLhyphen"/>ately proceed the enjoyment of the ſpirit.</p>
+            <p>Fourthly, Becauſe I find impoſition of hands joyned to the doctrine of baptiſmes by a Conjunction copulative. <hi>Heb.</hi> 6. and according to the practiſe of the Apoſtles, im<g ref="char:EOLhyphen"/>mediately to proceed the enjoyment of the promiſe intealed upon the chearfull reception of the doctrine of baptiſmes of water and afflictions.</p>
+            <p>Fifthly, I find it an interpoſed practiſe of the Apoſtles immediately after baptiſme, before the ſaints enjoying the ſpirit promiſed.</p>
+            <p>Sixthly, Becauſe mortification of ſin guidance in the way of truth, helps to prophecy directions to prayer, all convai'd through the ſpirit which leads into all truth.</p>
+            <p>Seventhly, Though I find ſome had the ſpirit without it, yet I have no grounds to expect it but in Gods ordinary way of communication.</p>
+            <p>Eighthly, Becauſe I find impoſition of hands kept alive ſucceſſively from the Apoſtle through the darkeſt miſts of popery even after baptiſme was changed, as to the right ſubjects by the ſubtilty of <hi>Fidus</hi> the prieſt, this practiſe hath been ever ſince kept alive by the Biſhops hands upon their couzened babes.</p>
+            <p>Ninthly, Becauſe I find a greater experience of the in<g ref="char:EOLhyphen"/>dwelling
+<pb n="12" facs="tcp:34407:8"/>of God in thoſe that practiſe it upon baptized be<g ref="char:EOLhyphen"/>lievers, then in the oppoſers of it, more frequent in duties both at home and abroad, more love in them one towards another, more watchfull over one another, more zealous for truth, more ſympathying one with another in ſufferings, If I had no other reaſons to convince me of truth in the pre<g ref="char:EOLhyphen"/>ſent practiſe of impoſition of hands then I have experienced in theſe latter, Theſe only would have engaged me no lon<g ref="char:EOLhyphen"/>ger to have oppoſed it.</p>
+            <closer>
+               <salute>Vale.</salute>
+               <signed>William Pryer.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
